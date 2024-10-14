@@ -3,8 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* how to comment css */
 body {
-    /* how to comment css */
     color: #39a6b2;
     font-family: Arial, Helvetica, sans-serif;
 
@@ -65,4 +65,8 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
 }
